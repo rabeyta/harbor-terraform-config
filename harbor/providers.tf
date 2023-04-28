@@ -1,8 +1,8 @@
 terraform {
   required_providers {
     harbor = {
-      source  = "BESTSELLER/harbor"
-      version = "3.7.1"
+      source  = "goharbor/harbor"
+      version = "3.8.4"
     }
   }
 }
